@@ -1,0 +1,1 @@
+![Preview image](https://github.com/sikozonpc/JS-Drum-Pad/preview.png "Screenshot 1")
