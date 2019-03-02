@@ -1,1 +1,1 @@
-![Preview image](https://github.com/sikozonpc/JS-Drum-Pad/preview.png "Screenshot 1")
+![Preview image](https://github.com/sikozonpc/JS-Drum-Pad/blob/master/preview.png "Screenshot 1")
